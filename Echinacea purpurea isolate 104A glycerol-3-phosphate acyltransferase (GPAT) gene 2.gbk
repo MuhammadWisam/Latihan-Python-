@@ -1,0 +1,68 @@
+LOCUS       EU423812                1015 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Echinacea purpurea isolate 104A glycerol-3-phosphate
+            acyltransferase (GPAT) gene, GPAT-a allele, partial cds.
+ACCESSION   EU423812
+VERSION     EU423812.1
+KEYWORDS    .
+SOURCE      Echinacea purpurea
+  ORGANISM  Echinacea purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Asterales; Asteraceae;
+            Asteroideae; Heliantheae alliance; Heliantheae; Echinacea.
+REFERENCE   1  (bases 1 to 1015)
+  AUTHORS   Flagel,L.E., Rapp,R.A., Grover,C.E., Widrlechner,M.P., Hawkins,J.,
+            Grafenberg,J.L., Alvarez,I., Chung,G.Y. and Wendel,J.F.
+  TITLE     Phylogenetic, morphological, and chemotaxonomic incongruence in the
+            North American endemic genus Echinacea
+  JOURNAL   Am. J. Bot. 95 (6), 756-765 (2008)
+   PUBMED   21632401
+REFERENCE   2  (bases 1 to 1015)
+  AUTHORS   Flagel,L.E., Rapp,R.A., Grover,C.E., Widrlechner,M.P., Hawkins,J.,
+            Grafenberg,J.L., Alvarez Fernandez,I., Chung,G.Y. and Wendel,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JAN-2008) Department of Ecology, Evolution, and
+            Organismal Biology, Iowa State University, Ames, IA 50011, USA
+FEATURES             Location/Qualifiers
+     source          1..1015
+                     /organism="Echinacea purpurea"
+                     /mol_type="genomic DNA"
+                     /isolate="104A"
+                     /db_xref="taxon:53751"
+                     /collection_date="2005"
+     gene            <132..>686
+                     /gene="GPAT"
+                     /allele="a"
+     mRNA            join(<132..188,264..365,441..502,578..>686)
+                     /gene="GPAT"
+                     /allele="a"
+                     /product="glycerol-3-phosphate acyltransferase"
+     CDS             join(<132..188,264..365,441..502,578..>686)
+                     /gene="GPAT"
+                     /allele="a"
+                     /codon_start=1
+                     /product="glycerol-3-phosphate acyltransferase"
+                     /protein_id="ACA09566.1"
+                     /translation="ESYVGNVSLFSEMEEQLKQGENVILISNHQSEADPAVIALLLET
+                     TNPHISENIIYVAGDRVITDPLCKPFSMGRNLLCVYSKKHMNDVPELADMKRRANTRS
+                     LKEMALLL"
+ORIGIN      
+        1 tagttaacaa tttttgtctt gattctcatt gttgtatata gtggactttc tccatttagc
+       61 tctaccgtat tacacaataa actttaaagg agcgtgtaag tatcatgact tagtcgtatc
+      121 tgattatcag ggaatcatat gttggcaacg tctctctttt cagtgaaatg gaagaacagc
+      181 tcaagcaggt gccttgtttc ttatgtaaaa ttttgattat tttttaagat cctaatattt
+      241 acttttatta ttaaaaccat cagggtgaaa atgtgatttt aatctcaaac caccaatcag
+      301 aagcagatcc agctgttatt gccttgttgc ttgaaacaac aaatcctcat atttctgaga
+      361 acatagtaag ccctctataa attaatgcca catacaatga aatgttcact tgagttcaat
+      421 atttgattac tgtaatgcag atctatgtgg caggggacag agtcataaca gatcctcttt
+      481 gtaagccttt cagcatggga aggttctcat ttactttcta atccgacata acactcaagc
+      541 attcatatag ttgtcctgat atgaacttac accataggaa cttattgtgc gtatattcaa
+      601 agaaacatat gaacgatgtt cctgagcttg ctgatatgaa acggagagca aatacaagaa
+      661 gtttaaaaga gatggctttg cttttgaggt atctactatc ctttccttaa gttattaaaa
+      721 tttaagtcgg aacttccttg tgtttgtaaa ttcgtagctg ttataagatg ttttgtctca
+      781 attctttaaa tacattacgc acagataaat ttctcatcat aatggagcgt gcttcgatca
+      841 aattaagtat gcatgtatct tttatgattt tataatgtat gctaccttcc aaatttgggc
+      901 ttttttgtct ttacattttt aaatactcta ccccttttga tcaattgtta ttcaagcaac
+      961 ttcaatgttg tttaatctta ttaaattatt atatagcttt agttttttaa ttcta
+//
+
